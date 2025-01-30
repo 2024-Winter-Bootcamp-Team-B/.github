@@ -12,7 +12,6 @@
 - [ERD](#-Erd)
 - [API](#-API)
 - [Monitoring](#-Monitoring)
-- [Directory Structure](#-Directory-Structure)
 - [Members](#-Members)
 
 <br>
