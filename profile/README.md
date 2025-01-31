@@ -1,7 +1,7 @@
 <p align = center> 🧐 FOCUS : Filter Out Chaos, Unlock Success 🧐 <p>
-### <p align = center> 🖥️ 2024 Techeer Winter S/W BootCamp 🖥️ <br> &nbsp;&nbsp;&nbsp;&nbsp;<img width="1329" alt="스크린샷 2025-01-31 오후 8 03 46" src="https://github.com/user-attachments/assets/648ba142-58ce-45a4-b970-f6a41694b9db" />
+<p align = center> 🖥️ 2024 Techeer Winter S/W BootCamp 🖥️ <br> &nbsp;&nbsp;&nbsp;&nbsp;<img width="1329" alt="스크린샷 2025-01-31 오후 8 03 46" src="https://github.com/user-attachments/assets/648ba142-58ce-45a4-b970-f6a41694b9db" />
 <br> &nbsp;&nbsp;&nbsp;집중력 방해 사이트 차단을 통한 집중력 향상 서비스 <p> 
-##### <p align = center> URL : https://www.focus-on-site.com <p>
+<p align = center> URL : https://www.focus-on-site.com <p>
 
 <br>
 
