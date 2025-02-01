@@ -24,6 +24,15 @@
 
 ## 🎥 Demo
 
+메인페이지 차단 영상
+![메인페이지 차단 영상 (1) (1)](https://github.com/user-attachments/assets/fd38be0e-e51f-45eb-abb4-7d2a004f0640)
+
+차단하기 영상
+![차단하기영상 (1)](https://github.com/user-attachments/assets/b940c24e-c7cd-41f5-a8b2-f2e290977d49)
+
+차단해제 영상
+![차단해제 영상 (1)](https://github.com/user-attachments/assets/ebef8984-fecf-4860-8b75-f61162999e29)
+
 
 
 ## 🚨 System Architecture
