@@ -18,7 +18,7 @@
 <br>
 
 ## 📋 Medium
-  🔖 [F.O.C.U.S](https://medium.com/@alskdj7879/focus-filter-out-chaos-unlock-success-e1dbb2b1eea6)
+  🔖 [F.O.C.U.S]([https://hoonii.medium.com/focus-filter-out-chaos-unlock-success-54af1eb9514b])
 
 </br>
 
