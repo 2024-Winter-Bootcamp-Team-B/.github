@@ -25,7 +25,7 @@
 ## 🎥 Demo
 
 메인페이지 차단 영상 <br>
-![메인페이지 차단 영상 (1) (1)](https://github.com/user-attachments/assets/fd38be0e-e51f-45eb-abb4-7d2a004f0640)
+![메인페이지 차단 영상 (1)](https://github.com/user-attachments/assets/fd38be0e-e51f-45eb-abb4-7d2a004f0640)
 
 차단하기 영상 <br>
 ![차단하기영상 (1)](https://github.com/user-attachments/assets/b940c24e-c7cd-41f5-a8b2-f2e290977d49)
